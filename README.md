@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="[https://cdn.worldvectorlogo.com/logos/odoo-1.svg](https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg)" width="140"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" width="140" />
 
 <h1>Hi 👋 I'm Mujahid Alam</h1>
 
