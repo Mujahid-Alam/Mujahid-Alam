@@ -58,7 +58,9 @@ Software Developer skilled in Odoo ERP, Python, PostgreSQL, Django, and AWS, foc
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mujahid-Alam&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mujahid-Alam&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mujahid-Alam&layout=compact&theme=tokyonight"/>
 
 </p>
 
