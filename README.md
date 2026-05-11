@@ -4,7 +4,7 @@
 
 <img src="[https://cdn.worldvectorlogo.com/logos/odoo-1.svg](https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg)" width="140"/>
 
-<h1>Hi 👋 I'm Mujahid</h1>
+<h1>Hi 👋 I'm Mujahid Alam</h1>
 
 <h3>Odoo Developer | Python Developer | Web Scraper</h3>
 
@@ -22,11 +22,14 @@
 
 # 👨‍💻 About Me
 
-- 🔥 Odoo Custom Module Developer
-- 🌐 Python & Web Scraping Expert
-- 🛠 ERP Automation & Backend Development
-- 🐧 Linux & Ubuntu User
-- 📚 Learning Advanced Odoo & DevOps
+📚 Odoo Custom Module Developer
+🌐 Python & Web Scraping Expert
+☁️ AWS Cloud Learner
+🛠 ERP Automation & Scalable Backend Solutions
+🐧 Linux & Ubuntu User
+
+
+Software Developer skilled in Odoo ERP, Python, PostgreSQL, Django, and AWS, focused on developing scalable, efficient, and automation-driven business applications.
 
 ---
 
