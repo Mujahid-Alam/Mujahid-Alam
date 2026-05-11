@@ -1,23 +1,3 @@
-## Hi there 👋
-
-<!--
-**Mujahid-Alam/Mujahid-Alam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-```md
-
-
-
 ```md
 <div align="center">
 
@@ -34,8 +14,6 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=875A7B&center=true&vCenter=true&width=500&lines=Odoo+Developer;Python+Programmer;Web+Scraping+Expert;Open+Source+Contributor" />
 
 </div>
-```
-
 
 ---
 
@@ -63,9 +41,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mujahid-Alam&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahid-Alam&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -75,7 +53,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mujahid-Alam&theme=tokyonight"/>
 
 </p>
 
@@ -85,12 +63,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Mujahid-Alam">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
