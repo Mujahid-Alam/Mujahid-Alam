@@ -82,3 +82,9 @@ Software Developer skilled in Odoo ERP, Python, PostgreSQL, Django, and AWS, foc
 ![](https://komarev.com/ghpvc/?username=Mujahid-Alam&color=blue)
 
 </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo_18-875A7B?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Scraping-FF6600?style=for-the-badge&logo=data-analysis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
