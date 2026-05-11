@@ -46,7 +46,7 @@ Software Developer skilled in Odoo ERP, Python, PostgreSQL, Django, and AWS, foc
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mujahid-Alam&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahid-Alam&layout=compact&theme=tokyonight"/>
 
@@ -72,7 +72,7 @@ Software Developer skilled in Odoo ERP, Python, PostgreSQL, Django, and AWS, foc
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/mujahid-fighter/)">
+<a href="https://www.linkedin.com/in/mujahid-fighter/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
