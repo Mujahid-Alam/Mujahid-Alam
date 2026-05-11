@@ -83,8 +83,11 @@ Software Developer skilled in Odoo ERP, Python, PostgreSQL, Django, and AWS, foc
 ---
 🐍 Contribution Snake
 
-![Snake animation](https://github.com/आपका-यूजरनाम/आपका-यूजरनाम/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mujahid-Alam/Mujahid-Alam/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mujahid-Alam/Mujahid-Alam/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mujahid-Alam/Mujahid-Alam/output/github-contribution-grid-snake.svg">
+</picture>
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Mujahid-Alam&color=blue)
