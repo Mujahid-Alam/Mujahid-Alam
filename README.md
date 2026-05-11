@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-```md
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
-```
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" width="220"/>
 
 <h1>Hi 👋 I'm Mujahid</h1>
 
