@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 ```md
 
 
+
+```md
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" width="220"/>
+<img src="https://cdn.worldvectorlogo.com/logos/odoo-1.svg" width="140"/>
 
 <h1>Hi 👋 I'm Mujahid</h1>
 
@@ -28,6 +30,8 @@ Here are some ideas to get you started:
 <p>
 💻 Passionate about Automation, ERP Development & Open Source Projects.
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=875A7B&center=true&vCenter=true&width=500&lines=Odoo+Developer;Python+Programmer;Web+Scraping+Expert;Open+Source+Contributor" />
 
 </div>
 ```
