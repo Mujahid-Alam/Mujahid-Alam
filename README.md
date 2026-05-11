@@ -16,7 +16,9 @@
 
 </div>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo-ERP-purple?style=for-the-badge&logo=odoo&logoColor=white" />
+</p>
 
 ---
 
@@ -42,15 +44,13 @@ Software Developer skilled in Odoo ERP, Python, PostgreSQL, Django, and AWS, foc
 
 ---
 
-# 📊 GitHub Stats
+🧠 Current Focus
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mujahid-Alam&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahid-Alam&layout=compact&theme=tokyonight"/>
-
-</p>
+- Odoo Functional Consulting  
+- Linux Privilege Escalation  
+- Docker (Containerization & Deployment)  
+- API Security & Authentication  
+- Payment Gateway Integration  
 
 ---
 
@@ -81,6 +81,10 @@ Software Developer skilled in Odoo ERP, Python, PostgreSQL, Django, and AWS, foc
 </p>
 
 ---
+🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Mujahid-Alam/Mujahid-Alam/output/github-contribution-grid-snake.svg)
+
 
 <div align="center">
 
