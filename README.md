@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Mujahid-Alam/Mujahid-Alam** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,9 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-```html
+
 <div align="center">
 
 <img src="https://cdn.worldvectorlogo.com/logos/odoo-1.svg" width="140"/>
@@ -32,16 +30,6 @@ Here are some ideas to get you started:
 
 </div>
 
----
-
-# 👨‍💻 About Me
-
-- 🔥 Odoo Custom Module Developer
-- 🌐 Python & Web Scraping Expert
-- 🛠 ERP Automation & Backend Development
-- 🐧 Linux & Ubuntu User
-- 📚 Learning Advanced Odoo & DevOps
-```
 
 
 ---
@@ -72,7 +60,7 @@ Here are some ideas to get you started:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahid-Alam&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -82,7 +70,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mujahid-Alam&theme=tokyonight"/>
 
 </p>
 
@@ -92,11 +80,11 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Mujahid-Alam">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="[https://linkedin.com](https://www.linkedin.com/in/mujahid-fighter/)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
