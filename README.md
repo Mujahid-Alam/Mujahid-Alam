@@ -6,19 +6,22 @@
     
 <h1>Hi 👋 I'm Mujahid Alam</h1>
 
-<h3>Full Stack Developer (React + Django) | Odoo ERP Developer | Python Developer | Web Scraper</h3>
+<h3>Full Stack Developer (React + Django) | Odoo ERP Developer </h3>
+<h4>Python Developer | Web Scraper </h4>
+
 <p>💻 Focused on building scalable ERP systems, automation solutions, and production-ready web applications.</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=875A7B&center=true&vCenter=true&width=500&lines=Odoo+18+Expert;Python+Backend+Dev;Web+Scraping+Pro;Open+Source+Contributor"/>
     
 </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,django" />
+</div>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Odoo-ERP-purple?style=for-the-badge&logo=odoo&logoColor=white" />
 </p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,django" />
-</div>
+
 <p align="center">
     <a href="https://www.linkedin.com/in/mujahid-fighter/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
