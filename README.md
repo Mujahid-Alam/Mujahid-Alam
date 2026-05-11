@@ -13,12 +13,12 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Odoo-ERP-purple?style=for-the-badge&logo=odoo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Odoo-ERP-purple?style=for-the-badge&logo=odoo&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mujahid-fighter/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <a href="https://www.linkedin.com/in/mujahid-fighter/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </p>
       
 # 👨‍💻 About Me
