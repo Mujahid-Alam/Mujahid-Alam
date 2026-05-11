@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="120"/>
+```md
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
+```
+
 
 <h1>Hi 👋 I'm Mujahid</h1>
 
