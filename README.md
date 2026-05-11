@@ -22,12 +22,11 @@
 
 # 👨‍💻 About Me
 
-📚 Odoo Custom Module Developer
-🌐 Python & Web Scraping Expert
-☁️ AWS Cloud Learner
-🛠 ERP Automation & Scalable Backend Solutions
-🐧 Linux & Ubuntu User
-
+- 📚 Odoo Custom Module Developer  
+- 🌐 Python & Web Scraping Expert  
+- ☁️ AWS Cloud Learner  
+- 🛠 ERP Automation & Scalable Backend Solutions  
+- 🐧 Linux & Ubuntu User  
 
 Software Developer skilled in Odoo ERP, Python, PostgreSQL, Django, and AWS, focused on developing scalable, efficient, and automation-driven business applications.
 
