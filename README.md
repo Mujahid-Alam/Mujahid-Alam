@@ -6,7 +6,7 @@
     
 <h1>Hi 👋 I'm Mujahid Alam</h1>
 
-<h3>Full Stack Developer (React + Django) | Odoo ERP Developer </h3>
+<h3>Odoo ERP Developer | Full Stack Developer (React+Django)</h3>
 <h4>Python Developer | Web Scraper </h4>
 
 <p>💻 Focused on building scalable ERP systems, automation solutions, and production-ready web applications.</p>
