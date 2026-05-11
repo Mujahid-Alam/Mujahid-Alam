@@ -15,17 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```md
+
+
 <div align="center">
 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="120"/>
 
-# Hi 👋 I'm Mujahid
+<h1>Hi 👋 I'm Mujahid</h1>
 
-### Odoo Developer | Python Developer | Web Scraper
+<h3>Odoo Developer | Python Developer | Web Scraper</h3>
 
+<p>
 💻 Passionate about Automation, ERP Development & Open Source Projects.
+</p>
 
 </div>
+```
+
 
 ---
 
