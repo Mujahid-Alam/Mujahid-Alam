@@ -73,13 +73,7 @@ Software Developer skilled in Odoo ERP, Python, PostgreSQL, React, Django, and A
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Mujahid-Alam">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/mujahidalam-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mujahid-Alam&theme=tokyonight" />
 </p>
 
 ---
