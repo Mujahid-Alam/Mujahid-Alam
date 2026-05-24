@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<div align="center">
-    
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" width="140" />
-    
+<div align="center">   
 <h1>Hi 👋 I'm Mujahid Alam</h1>
 
 <h3>Odoo ERP Developer | Full Stack Developer (React+Django)</h3>
@@ -11,7 +6,7 @@
 
 <p>💻 Focused on building scalable ERP systems, automation solutions, and production-ready web applications.</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=875A7B&center=true&vCenter=true&width=500&lines=Odoo+18+Expert;Python+Backend+Dev;Web+Scraping+Pro;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=875A7B&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(React+%2B+Django);Odoo+Developer;Web+Scraping+Specialist"/>
     
 </div>
 <div align="center">
@@ -21,21 +16,23 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Odoo-ERP-purple?style=for-the-badge&logo=odoo&logoColor=white" />
 </p>
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" width="140" />
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mujahid-fighter/">
+    <a href="https://www.linkedin.com/in/mujahidalam-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </p>
       
-# 👨‍💻 About Me
+👨‍💻 About Me
+📚 Odoo ERP Developer (Custom Module Development & Customization)
+🚀 Full Stack Developer (React + Django)
+🌐 Python Developer | Web Scraping & Automation Expert
+☁️ AWS Cloud Enthusiast (Learning & Deployment)
+🛠 ERP Automation | Scalable Backend Solutions
+🐧 Linux / Ubuntu Power User
 
-- 📚 Odoo Custom Module Developer  
-- 🌐 Python & Web Scraping Expert  
-- ☁️ AWS Cloud Learner  
-- 🛠 ERP Automation & Scalable Backend Solutions  
-- 🐧 Linux & Ubuntu User
-
-Software Developer skilled in Odoo ERP, Python, PostgreSQL, Django, and AWS, focused on developing scalable, efficient, and automation-driven business applications.
+Software Developer skilled in Odoo ERP, Python, PostgreSQL, React, Django, and AWS, focused on developing scalable, efficient, and automation-driven business applications.
 
 # 🚀 Technologies & Tools
 
@@ -44,8 +41,8 @@ Software Developer skilled in Odoo ERP, Python, PostgreSQL, Django, and AWS, foc
   <img src="https://skillicons.dev/icons?i=python,django,linux,git,github,postgresql,mysql,html,css,javascript,vscode,bash" />
 
 </p>
-🧠 Current Focus
 
+🧠 Current Focus
 - Odoo Functional Consulting  
 - Linux Privilege Escalation  
 - Docker (Containerization & Deployment)  
@@ -53,13 +50,9 @@ Software Developer skilled in Odoo ERP, Python, PostgreSQL, Django, and AWS, foc
 - Payment Gateway Integration
 
 # 🔥 Streak Stats
-
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mujahid-Alam&show_icons=true&theme=tokyonight"/>
-
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mujahid-Alam&layout=compact&theme=tokyonight"/>
-
 </p>
 
 # 🌐 Connect With Me
@@ -69,7 +62,7 @@ Software Developer skilled in Odoo ERP, Python, PostgreSQL, Django, and AWS, foc
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mujahid-fighter/">
+<a href="https://www.linkedin.com/in/mujahidalam-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
