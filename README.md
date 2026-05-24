@@ -6,7 +6,11 @@
 
 <p>💻 Focused on building scalable ERP systems, automation solutions, and production-ready web applications.</p>
 
+
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=875A7B&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(React+%2B+Django);Odoo+Developer;Web+Scraping+Specialist"/>
+</div>
+
     
 </div>
 <div align="center">
@@ -25,12 +29,13 @@
 </p>
       
 👨‍💻 About Me
-📚 Odoo ERP Developer (Custom Module Development & Customization)
-🚀 Full Stack Developer (React + Django)
-🌐 Python Developer | Web Scraping & Automation Expert
-☁️ AWS Cloud Enthusiast (Learning & Deployment)
-🛠 ERP Automation | Scalable Backend Solutions
-🐧 Linux / Ubuntu Power User
+
+    📚 Odoo ERP Developer (Custom Module Development & Customization)
+    🚀 Full Stack Developer (React + Django)
+    🌐 Python Developer | Web Scraping & Automation Expert
+    ☁️ AWS Cloud Enthusiast (Learning & Deployment)
+    🛠 ERP Automation | Scalable Backend Solutions
+    🐧 Linux / Ubuntu Power User
 
 Software Developer skilled in Odoo ERP, Python, PostgreSQL, React, Django, and AWS, focused on developing scalable, efficient, and automation-driven business applications.
 
